@@ -1,0 +1,13 @@
+{
+  "breadcrumbs.enabled": true,
+  "javascript.validate.enable": false,
+  "terminal.integrated.windowsEnableConpty": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
